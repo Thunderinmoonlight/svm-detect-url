@@ -1,0 +1,25 @@
+http://google.com
+http://facebook.com
+http://youtube.com
+http://yahoo.com
+http://baidu.com
+http://wikipedia.org
+http://qq.com
+http://linkedin.com
+http://live.com
+http://twitter.com
+http://amazon.com
+http://taobao.com
+http://blogspot.com
+http:/phpmyadmin/sql.php?server=000&cfgservers[000][host]=hello&btndrop=no&goto=/etc/passwd
+http:/ao22ww7y.html?<meta http-equiv=set-cookie content="testqppc=8767">
+http:/examples/jsp/jsp2/jspx/backend/classes.php?include_path=../lib/jinzora.js\x00
+http:/d765w06j.do?<img src="javascript:alert(cross_site_scripting.nasl);">
+http:/fastscripts2/
+http:/j4drbkil.exe?<img src="javascript:alert(cross_site_scripting.nasl);">
+http:/ikonboard.cgi?act=st&f=1&t=1&hl=nessus&st='
+http:/admin/htmlarea/popups/file/files.php?q=<script>alert('wvs-xss-magic-string-414355592517')</script>&mode=apparel
+http:/bl8sefdm.cgi?<script>cross_site_scripting.nasl</script>
+http:/javascript/mlist.exe
+http:/scripts/samples/search/filetime.idq
+http:/hjdzm96v.dll?<script>document.cookie="testbyqe=7474;"</script>
